@@ -1,0 +1,18 @@
+.items-div {
+  display: flex;
+}
+
+.item {
+  display: grid;
+  margin: auto;
+}
+
+.item p {
+  font-size: small;
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+  color: #ccc;
+}
